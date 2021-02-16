@@ -1,0 +1,21 @@
+[submodule "submodule/pesto"]
+	path = submodule/pesto
+	url = git@github.com:lhftio/pesto
+[submodule "submodule/capnp"]
+	path = submodule/capnp
+	url = git@github.com:lhftio/capnp
+[submodule "submodule/rapidcheck"]
+	path = submodule/rapidcheck
+	url = git@github.com:lhftio/rapidcheck
+[submodule "submodule/cframework"]
+	path = submodule/cframework
+	url = git@github.com:lhftio/cframework
+[submodule "submodule/dimcli"]
+	path = submodule/dimcli
+	url = git@github.com:lhftio/dimcli
+[submodule "submodule/seasocks"]
+	path = submodule/seasocks
+	url = git@github.com:lhftio/seasocks.git
+[submodule "submodule/boost"]
+	path = submodule/boost
+	url = git@github.com:lhftio/boost
